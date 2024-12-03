@@ -1,4 +1,4 @@
-IP地址,端口,回源端口,TLS,数据中心,地区,城市,网络延迟,速度
+IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
 168.138.50.249,443,443,TRUE,KIX,Asia Pacific,Osaka,81 ms,24.978
 141.147.147.180,443,443,TRUE,KIX,Asia Pacific,Osaka,79 ms,23.747
 64.110.104.30,443,443,TRUE,KIX,Asia Pacific,Osaka,81 ms,23.596
